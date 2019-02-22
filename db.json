@@ -1,0 +1,127 @@
+{
+  "geofence": [
+    [
+      {
+        "latitude": 37.487804,
+        "longitude": -121.958115
+      },
+      {
+        "latitude": 37.495568,
+        "longitude": -121.956141
+      },
+      {
+        "latitude": 37.496113,
+        "longitude": -121.953137
+      },
+      {
+        "latitude": 37.490869,
+        "longitude": -121.946871
+      },
+      {
+        "latitude": 37.483718,
+        "longitude": -121.937687
+      },
+      {
+        "latitude": 37.482764,
+        "longitude": -121.936829
+      },
+      {
+        "latitude": 37.481947,
+        "longitude": -121.936657
+      },
+      {
+        "latitude": 37.479972,
+        "longitude": -121.935198
+      },
+      {
+        "latitude": 37.467574,
+        "longitude": -121.929018
+      },
+      {
+        "latitude": 37.464849,
+        "longitude": -121.927645
+      },
+      {
+        "latitude": 37.463351,
+        "longitude": -121.933481
+      },
+      {
+        "latitude": 37.464986,
+        "longitude": -121.935885
+      },
+      {
+        "latitude": 37.466757,
+        "longitude": -121.936915
+      },
+      {
+        "latitude": 37.468664,
+        "longitude": -121.938631
+      },
+      {
+        "latitude": 37.470299,
+        "longitude": -121.940348
+      },
+      {
+        "latitude": 37.471934,
+        "longitude": -121.942236
+      },
+      {
+        "latitude": 37.472479,
+        "longitude": -121.944296
+      },
+      {
+        "latitude": 37.473569,
+        "longitude": -121.945154
+      },
+      {
+        "latitude": 37.475204,
+        "longitude": -121.945669
+      },
+      {
+        "latitude": 37.477111,
+        "longitude": -121.946871
+      },
+      {
+        "latitude": 37.477929,
+        "longitude": -121.948073
+      },
+      {
+        "latitude": 37.479563,
+        "longitude": -121.947386
+      },
+      {
+        "latitude": 37.480925,
+        "longitude": -121.947386
+      },
+      {
+        "latitude": 37.481334,
+        "longitude": -121.948931
+      },
+      {
+        "latitude": 37.482151,
+        "longitude": -121.948588
+      },
+      {
+        "latitude": 37.48365,
+        "longitude": -121.948073
+      },
+      {
+        "latitude": 37.486783,
+        "longitude": -121.950132
+      },
+      {
+        "latitude": 37.487873,
+        "longitude": -121.950819
+      },
+      {
+        "latitude": 37.488554,
+        "longitude": -121.951506
+      }
+    ]
+  ],
+  "profile": {
+    "uid": "MOCKED_USER",
+    "email": "admin@demo.com",
+    "photoURL": ""
+  }
+}
